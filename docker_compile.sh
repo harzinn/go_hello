@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Compling go-hello"
+echo "Compiling go-hello"
 echo "..."
 docker build -t go-hello .
